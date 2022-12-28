@@ -1,0 +1,54 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #ffffff33;
+  width: 80%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.won-or-lose-text {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.score-text {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.score-number {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #6a59ff;
+  margin-bottom: 10px;
+}
+
+.button {
+  width: 15px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+  color: black;
+  border-width: 0px;
+  background-color: #ffce27;
+  border-radius: 15px;
+}
+
+.img-emoji {
+  height: 200px;
+}

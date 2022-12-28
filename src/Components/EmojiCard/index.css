@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+.list-container {
+  width: 150px;
+  height: 150px;
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+  margin-bottom: 10px;
+  border-radius: 13px;
+}
+
+.emoji-size {
+  height: 70px;
+}
